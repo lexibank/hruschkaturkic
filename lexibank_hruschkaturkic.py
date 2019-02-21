@@ -14,6 +14,7 @@ from pylexibank.util import pb
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
+    id = 'hruschkaturkic'
 
     def cmd_install(self, **kw):
         with self.cldf as ds:
