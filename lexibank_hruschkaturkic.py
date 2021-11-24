@@ -1,19 +1,7 @@
 from pathlib import Path
-from clldutils.misc import slug
 from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank import Concept, Language
-from pylexibank.forms import FormSpec
 from pylexibank import progressbar
-import attr
 
-#@attr.s
-#class CustomConcept(Concept):
-#    Chinese_Gloss = attr.ib(default=None)
-
-
-#@attr.s
-#class CustomLanguage(Language):
-#    Location = attr.ib(default=None)
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
