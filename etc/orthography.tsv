@@ -1,64 +1,64 @@
-Grapheme	IPA
-q	q
-a	a
-b	b
-=	ɨ
-k	k
-u	u
-p	p
-%	ɔ
-i	i
-o	o
-G	G
-V	ā
-x	x
-\\	ə
-v	v
-r	r
-n	n
-e	e
-m	m
-d	d
-Q	ü
-S	δ
-j	j
-z	z
-P	ö
-^	ɘ
-K	ǖ
-H	š
-s	s
-t	t
-@	ī
-c	c
-&	ɛ
-W	ē
-g	g
-M	ä
-X	ǟ
-*	ɣ
-A	ś
-~	č
-Z	ǯ
-J	ž
-U	ŋ
-E	χ
-l	l
-1	ɘʷ
-F	ū
-w	w
-T	ō
-h	h
-5	ẹ
-7	ụ
-6	ọ
-2	əʷ
-8	ď
-f	f
-$	ɨ̄
-9	ń
-!	ȫ
-C	ź
-D	ǚ
-4	ŭ
-G	ɢ
+Grapheme	IPA	IPAInSource
+q	q	q
+a	a	a
+b	b	b
+=	ɨ	ɨ
+k	k	k
+u	u	u
+p	p	p
+%	ɔ	ɔ
+i	i	i
+o	o	o
+G	ɢ	G
+V	aː	ā
+x	x	x
+\	ə	ə
+v	v	v
+r	r	r
+n	n	n
+e	e	e
+m	m	m
+d	d	d
+Q	y	ü
+S	δ/ð	δ
+j	j	j
+z	z	z
+P	œ	ö
+^	ə	ɘ
+K	yː	ǖ
+H	ʃ	š
+s	s	s
+t	t	t
+@	iː	ī
+c	c/ts	c
+&	ɛ	ɛ
+W	eː	ē
+g	g	g
+M	æ	ä
+X	æː	ǟ
+*	ɣ	ɣ
+A	ś/ʃ	ś
+~	č/tʃ	č
+Z	ǯ/dʒ	ǯ
+J	ʒ	ž
+U	ŋ	ŋ
+E	χ	χ
+l	l	l
+1	ɘu̯	ɘʷ
+F	uː	ū
+w	w	w
+T	oː	ō
+h	h	h
+5	ẹ/ə	ẹ
+7	ụ/u	ụ
+6	ọ/o	ọ
+2	əu̯	əʷ
+8	ď/ð	ď
+f	f	f
+$	ɨː	ɨ̄
+9	ń/ŋ	ń
+!	œː	ȫ
+C	ź/ʒ	ź
+D	uː	ǚ
+4	ŭ/u	ŭ
+G	ɢ	ɢ
