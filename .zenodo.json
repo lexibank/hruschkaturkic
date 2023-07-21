@@ -8,18 +8,20 @@
     "creators": [
         {
             "name": "Daniel Hruschka"
-        },
-        {
-            "name": "Robert Forkel"
-        },
-        {
-            "name": "Johann-Mattis List"
         }
     ],
     "contributors": [
         {
             "name": "Daniel Hruschka",
             "type": "Distributor"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
         }
     ],
     "communities": [
