@@ -1,4 +1,1 @@
-Thanks to Dan Hruschka. Source data are originally from:
-
-> the Tower of Babel database at http://starling.rinet.ru/babel.php?lan=en
-> Starostin, Sergei A., Anna V. Dybo, and Oleg A. Mudrak. 2003. Etymological Dictionary of the Altaic Languages, 3 volumes. Leiden: Brill Academic Publishers. ISBN 90-04-13153-1
+The data originally stems from an etymological dictionary, from which the data was typed off and normalized for the purpose of the computational analysis. The original entries have not been preserved. Daniel Hruschka was so friendly to share the data along with the conversion table from the ASCII format in which the etymological dictionary entries had been converted to a rough IPA representation. These were used here in order to produce the CLDF data. Sources listed in the original etymological dictionary as well as any reference to it have, unfortunately, not been preserved. The same holds for the concepts, which are not available, neither for proto-forms or general etymologies, nor for reflexes.

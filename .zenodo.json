@@ -5,8 +5,25 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
-    "contributors": [],
+    "creators": [
+        {
+            "name": "Daniel Hruschka"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Daniel Hruschka",
+            "type": "Distributor"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
