@@ -1,14 +1,16 @@
 <a name="ds-cldfmetadatajson"> </a>
 
-# Wordlist Wordlist
+# Wordlist CLDF dataset derived from Hruschka et al.'s "Detecting regular sound changes in linguistics as events of concerted evolution" from 2015
 
 **CLDF Metadata**: [cldf-metadata.json](./cldf-metadata.json)
 
 property | value
  --- | ---
+[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Hruschka, D. J., Branford, S., Smith, E. D., Wilkins, J., Meade, A., Pagel, M., & Bhattacharya, T. (2015). Detecting regular sound changes in linguistics as events of concerted evolution. Current Biology, 25(1), 1-9.
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
+[dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by-nc/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/hruschkaturkic
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/hruschkaturkic/tree/2364602">lexibank/hruschkaturkic 2364602</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/ca097344">Concepticon v3.1.0-18-gca097344</a></li><li><a href="https://github.com/cldf-clts/clts/tree/6e60c1d">CLTS v2.2.0-11-g6e60c1d</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/hruschkaturkic/tree/c14c993">lexibank/hruschkaturkic c14c993</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/ca097344">Concepticon v3.1.0-18-gca097344</a></li><li><a href="https://github.com/cldf-clts/clts/tree/6e60c1d">CLTS v2.2.0-11-g6e60c1d</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.10.6</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | hruschkaturkic
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution

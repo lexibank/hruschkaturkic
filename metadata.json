@@ -1,6 +1,7 @@
 {
     "conceptlist": "",
     "citation": "",
-    "license": null,
-    "title": ""
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "title": "CLDF dataset derived from Hruschka et al.'s \"Detecting regular sound changes in linguistics as events of concerted evolution\" from 2015",
+    "citation": "Hruschka, D. J., Branford, S., Smith, E. D., Wilkins, J., Meade, A., Pagel, M., & Bhattacharya, T. (2015). Detecting regular sound changes in linguistics as events of concerted evolution. Current Biology, 25(1), 1-9."
 }
