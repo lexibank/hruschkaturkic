@@ -1,15 +1,18 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Hruschka, D. J., Branford, S., Smith, E. D., Wilkins, J., Meade, A., Pagel, M., & Bhattacharya, T. (2015). Detecting regular sound changes in linguistics as events of concerted evolution. Current Biology, 25(1), 1-9.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:isVersionOf": null,
+    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
+    "dc:title": "CLDF dataset derived from Hruschka et al.'s \"Detecting regular sound changes in linguistics as events of concerted evolution\" from 2015",
     "dcat:accessURL": "https://github.com/lexibank/hruschkaturkic",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/hruschkaturkic",
             "rdf:type": "prov:Entity",
-            "dc:created": "2364602",
+            "dc:created": "c14c993",
             "dc:title": "Repository"
         },
         {

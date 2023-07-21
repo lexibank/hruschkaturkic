@@ -1,12 +1,16 @@
-# Dataset hruschkaturkic
+# CLDF dataset derived from Hruschka et al.'s "Detecting regular sound changes in linguistics as events of concerted evolution" from 2015
 
 ## How to cite
 
 If you use these data please cite
-this dataset using the DOI of the [particular released version](../../releases/) you were using
+- the original source
+  > Hruschka, D. J., Branford, S., Smith, E. D., Wilkins, J., Meade, A., Pagel, M., & Bhattacharya, T. (2015). Detecting regular sound changes in linguistics as events of concerted evolution. Current Biology, 25(1), 1-9.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
+
+This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
 ## Notes
 
