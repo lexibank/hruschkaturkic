@@ -1,27 +1,27 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-ALT,Altai,sout2694,,,,,,
-AZB,Azerbaijanian,nort2697,,,,,,
-BAS,Bashkir,bash1264,,,,,,
-BLKX,Balkar,kara1465,,,,,,
-CHV,Chuvash,chuv1255,,,,,,
-DOLG,Dolgan,dolg1241,,,,,,
-GAGX,Gagauz,gaga1249,,,,,,
-HAK,Khakassian,khak1248,,,,,,
-JAK,Yakut,yaku1245,,,,,,
-KAZ,Kazak,kaza1248,,,,,,
-KHAL,Khalaj,turk1303,,,,,,
-KLPX,Karakalpak,kara1467,,,,,,
-KRG,Kirghiz,kirg1245,,,,,,
-KRMX,Karaim,kara1464,,,,,,
-NOGX,Nogay,noga1249,,,,,,
-QUM,Kumyk,kumy1244,,,,,,
-SAL,Salar,sala1264,,,,,,
-SHR,Shor,shor1247,,,,,,
-SJG,Sary-Yughur (A,dialect,,,,,,
-TAT,Tatar,tata1255,,,,,,
-TOF,Tofalar,(A dialect of Tuvan),,,,,,
-TRK,Turkish,nucl1301,,,,,,
-TRM,Turkmen,turk1304,,,,,,
-TUV,Tuvan,tuvi1240,,,,,,
-UIG,Uighur,uigh1240,,,,,,
-UZB,Uzbek,sout2699,,,,,,
+ALT,Altai,sout2694,Southern Altai,alt,Eurasia,50.1347,86.8705,Turkic
+AZB,Azerbaijanian,nort2697,North Azerbaijani,azj,Eurasia,40.97768,46.4737,Turkic
+BAS,Bashkir,bash1264,Bashkir,bak,Eurasia,53.59671,56.55937,Turkic
+BLKX,Balkar,kara1465,Karachay-Balkar,krc,Eurasia,43.565,42.2606,Turkic
+CHV,Chuvash,chuv1255,Chuvash,chv,Eurasia,55.48701,47.16298,Turkic
+DOLG,Dolgan,dolg1241,Dolgan,dlg,Eurasia,71.10828,94.29358,Turkic
+GAGX,Gagauz,gaga1249,Gagauz,gag,Eurasia,44.59876,28.02769,Turkic
+HAK,Khakassian,khak1248,Khakas,kjh,Eurasia,50.73933,107.16939,Turkic
+JAK,Yakut,yaku1245,Sakha,sah,Eurasia,61.69744,133.98031,Turkic
+KAZ,Kazak,kaza1248,Kazakh,kaz,Eurasia,51.17,71.454,Turkic
+KHAL,Khalaj,turk1303,Turkic Khalaj,klj,Eurasia,34.42237,50.32223,Turkic
+KLPX,Karakalpak,kara1467,Kara-Kalpak,kaa,Eurasia,39.98005,63.32233,Turkic
+KRG,Kirghiz,kirg1245,Kirghiz,kir,Eurasia,42.0,74.0,Turkic
+KRMX,Karaim,kara1464,Karaim,kdr,Eurasia,54.5534,25.1054,Turkic
+NOGX,Nogay,noga1249,Nogai,nog,Eurasia,44.89776,43.1656,Turkic
+QUM,Kumyk,kumy1244,Kumyk,kum,Eurasia,43.0,47.0,Turkic
+SAL,Salar,sala1264,Salar,slr,Eurasia,35.5457,102.819,Turkic
+SHR,Shor,shor1247,Shor,cjs,Eurasia,52.32607,88.4344,Turkic
+SJG,Sary-Yughur (A dialect of Uighur),,,,,,,
+TAT,Tatar,tata1255,Tatar,tat,Eurasia,55.79592,49.11577,Turkic
+TOF,Tofalar (A dialect of Tuvan),,,,,,,
+TRK,Turkish,nucl1301,Turkish,tur,Eurasia,39.8667,32.8667,Turkic
+TRM,Turkmen,turk1304,Turkmen,tuk,Eurasia,37.08719,59.17574,Turkic
+TUV,Tuvan,tuvi1240,Tuvinian,tyv,Eurasia,51.7,94.36667,Turkic
+UIG,Uighur,uigh1240,Uighur,uig,Eurasia,43.88,87.38,Turkic
+UZB,Uzbek,sout2699,Southern Uzbek,uzs,Eurasia,36.6099,60.6907,Turkic

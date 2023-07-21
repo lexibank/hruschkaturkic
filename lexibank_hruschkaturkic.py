@@ -35,10 +35,10 @@ class Dataset(BaseDataset):
 
         for language in progressbar(self.languages):
             args.writer.add_language(
-                    ID=language["ID"],
-                    Name=language["Name"],
-                    Glottocode=language["Glottocode"] or ""
-                    )
+                ID=language["ID"],
+                Name=language["Name"],
+                Glottocode=language["Glottocode"] or None
+            )
             for i, word in enumerate(data[language["ID"]]):
                 alignment = [mapper.get(t, [t])[0] for t in word]
                 tokens = [t for t in alignment if t != "-"]
